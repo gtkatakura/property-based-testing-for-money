@@ -1,0 +1,602 @@
+[
+  {
+    "total_value": "38428.36",
+    "number_of_parcels": 9,
+    "parcel_value": "4269.81",
+    "rest_value": "0.07"
+  },
+  {
+    "total_value": "48369.08",
+    "number_of_parcels": 3,
+    "parcel_value": "16123.02",
+    "rest_value": "0.02"
+  },
+  {
+    "total_value": "6580.13",
+    "number_of_parcels": 4,
+    "parcel_value": "1645.03",
+    "rest_value": "0.01"
+  },
+  {
+    "total_value": "13444.88",
+    "number_of_parcels": 10,
+    "parcel_value": "1344.48",
+    "rest_value": "0.08"
+  },
+  {
+    "total_value": "18742.29",
+    "number_of_parcels": 7,
+    "parcel_value": "2677.47",
+    "rest_value": "0.00"
+  },
+  {
+    "total_value": "7843.30",
+    "number_of_parcels": 7,
+    "parcel_value": "1120.47",
+    "rest_value": "0.01"
+  },
+  {
+    "total_value": "27699.95",
+    "number_of_parcels": 2,
+    "parcel_value": "13849.97",
+    "rest_value": "0.01"
+  },
+  {
+    "total_value": "9669.09",
+    "number_of_parcels": 5,
+    "parcel_value": "1933.81",
+    "rest_value": "0.04"
+  },
+  {
+    "total_value": "48065.22",
+    "number_of_parcels": 9,
+    "parcel_value": "5340.58",
+    "rest_value": "0.00"
+  },
+  {
+    "total_value": "30903.06",
+    "number_of_parcels": 10,
+    "parcel_value": "3090.30",
+    "rest_value": "0.06"
+  },
+  {
+    "total_value": "41797.18",
+    "number_of_parcels": 6,
+    "parcel_value": "6966.19",
+    "rest_value": "0.04"
+  },
+  {
+    "total_value": "39872.96",
+    "number_of_parcels": 7,
+    "parcel_value": "5696.13",
+    "rest_value": "0.05"
+  },
+  {
+    "total_value": "492.93",
+    "number_of_parcels": 9,
+    "parcel_value": "54.77",
+    "rest_value": "0.00"
+  },
+  {
+    "total_value": "49834.43",
+    "number_of_parcels": 7,
+    "parcel_value": "7119.20",
+    "rest_value": "0.03"
+  },
+  {
+    "total_value": "16196.29",
+    "number_of_parcels": 10,
+    "parcel_value": "1619.62",
+    "rest_value": "0.09"
+  },
+  {
+    "total_value": "16792.24",
+    "number_of_parcels": 1,
+    "parcel_value": "16792.24",
+    "rest_value": "0.00"
+  },
+  {
+    "total_value": "19461.90",
+    "number_of_parcels": 6,
+    "parcel_value": "3243.65",
+    "rest_value": "0.00"
+  },
+  {
+    "total_value": "24713.99",
+    "number_of_parcels": 10,
+    "parcel_value": "2471.39",
+    "rest_value": "0.09"
+  },
+  {
+    "total_value": "42964.56",
+    "number_of_parcels": 9,
+    "parcel_value": "4773.84",
+    "rest_value": "0.00"
+  },
+  {
+    "total_value": "39353.67",
+    "number_of_parcels": 6,
+    "parcel_value": "6558.94",
+    "rest_value": "0.03"
+  },
+  {
+    "total_value": "16570.08",
+    "number_of_parcels": 6,
+    "parcel_value": "2761.68",
+    "rest_value": "0.00"
+  },
+  {
+    "total_value": "11482.21",
+    "number_of_parcels": 9,
+    "parcel_value": "1275.80",
+    "rest_value": "0.01"
+  },
+  {
+    "total_value": "17361.03",
+    "number_of_parcels": 6,
+    "parcel_value": "2893.50",
+    "rest_value": "0.03"
+  },
+  {
+    "total_value": "41141.10",
+    "number_of_parcels": 3,
+    "parcel_value": "13713.70",
+    "rest_value": "0.00"
+  },
+  {
+    "total_value": "43266.29",
+    "number_of_parcels": 2,
+    "parcel_value": "21633.14",
+    "rest_value": "0.01"
+  },
+  {
+    "total_value": "9483.83",
+    "number_of_parcels": 7,
+    "parcel_value": "1354.83",
+    "rest_value": "0.02"
+  },
+  {
+    "total_value": "1960.19",
+    "number_of_parcels": 9,
+    "parcel_value": "217.79",
+    "rest_value": "0.08"
+  },
+  {
+    "total_value": "43187.47",
+    "number_of_parcels": 2,
+    "parcel_value": "21593.73",
+    "rest_value": "0.01"
+  },
+  {
+    "total_value": "11798.13",
+    "number_of_parcels": 5,
+    "parcel_value": "2359.62",
+    "rest_value": "0.03"
+  },
+  {
+    "total_value": "26024.78",
+    "number_of_parcels": 8,
+    "parcel_value": "3253.09",
+    "rest_value": "0.06"
+  },
+  {
+    "total_value": "47023.29",
+    "number_of_parcels": 10,
+    "parcel_value": "4702.32",
+    "rest_value": "0.09"
+  },
+  {
+    "total_value": "23301.79",
+    "number_of_parcels": 10,
+    "parcel_value": "2330.17",
+    "rest_value": "0.09"
+  },
+  {
+    "total_value": "41077.21",
+    "number_of_parcels": 10,
+    "parcel_value": "4107.72",
+    "rest_value": "0.01"
+  },
+  {
+    "total_value": "35800.59",
+    "number_of_parcels": 2,
+    "parcel_value": "17900.29",
+    "rest_value": "0.01"
+  },
+  {
+    "total_value": "2439.70",
+    "number_of_parcels": 5,
+    "parcel_value": "487.94",
+    "rest_value": "0.00"
+  },
+  {
+    "total_value": "46626.84",
+    "number_of_parcels": 9,
+    "parcel_value": "5180.76",
+    "rest_value": "0.00"
+  },
+  {
+    "total_value": "24609.85",
+    "number_of_parcels": 2,
+    "parcel_value": "12304.92",
+    "rest_value": "0.01"
+  },
+  {
+    "total_value": "21974.83",
+    "number_of_parcels": 9,
+    "parcel_value": "2441.64",
+    "rest_value": "0.07"
+  },
+  {
+    "total_value": "11323.11",
+    "number_of_parcels": 10,
+    "parcel_value": "1132.31",
+    "rest_value": "0.01"
+  },
+  {
+    "total_value": "15133.04",
+    "number_of_parcels": 10,
+    "parcel_value": "1513.30",
+    "rest_value": "0.04"
+  },
+  {
+    "total_value": "3911.70",
+    "number_of_parcels": 3,
+    "parcel_value": "1303.90",
+    "rest_value": "0.00"
+  },
+  {
+    "total_value": "27757.42",
+    "number_of_parcels": 4,
+    "parcel_value": "6939.35",
+    "rest_value": "0.02"
+  },
+  {
+    "total_value": "20363.04",
+    "number_of_parcels": 9,
+    "parcel_value": "2262.56",
+    "rest_value": "0.00"
+  },
+  {
+    "total_value": "11812.06",
+    "number_of_parcels": 6,
+    "parcel_value": "1968.67",
+    "rest_value": "0.04"
+  },
+  {
+    "total_value": "5488.14",
+    "number_of_parcels": 10,
+    "parcel_value": "548.81",
+    "rest_value": "0.04"
+  },
+  {
+    "total_value": "5584.29",
+    "number_of_parcels": 7,
+    "parcel_value": "797.75",
+    "rest_value": "0.04"
+  },
+  {
+    "total_value": "14605.60",
+    "number_of_parcels": 7,
+    "parcel_value": "2086.51",
+    "rest_value": "0.03"
+  },
+  {
+    "total_value": "36179.88",
+    "number_of_parcels": 1,
+    "parcel_value": "36179.88",
+    "rest_value": "0.00"
+  },
+  {
+    "total_value": "25326.12",
+    "number_of_parcels": 10,
+    "parcel_value": "2532.61",
+    "rest_value": "0.02"
+  },
+  {
+    "total_value": "44483.09",
+    "number_of_parcels": 9,
+    "parcel_value": "4942.56",
+    "rest_value": "0.05"
+  },
+  {
+    "total_value": "32567.44",
+    "number_of_parcels": 7,
+    "parcel_value": "4652.49",
+    "rest_value": "0.01"
+  },
+  {
+    "total_value": "21858.66",
+    "number_of_parcels": 4,
+    "parcel_value": "5464.66",
+    "rest_value": "0.02"
+  },
+  {
+    "total_value": "34217.82",
+    "number_of_parcels": 8,
+    "parcel_value": "4277.22",
+    "rest_value": "0.06"
+  },
+  {
+    "total_value": "20614.81",
+    "number_of_parcels": 10,
+    "parcel_value": "2061.48",
+    "rest_value": "0.01"
+  },
+  {
+    "total_value": "32330.85",
+    "number_of_parcels": 10,
+    "parcel_value": "3233.08",
+    "rest_value": "0.05"
+  },
+  {
+    "total_value": "41596.63",
+    "number_of_parcels": 3,
+    "parcel_value": "13865.54",
+    "rest_value": "0.01"
+  },
+  {
+    "total_value": "16951.18",
+    "number_of_parcels": 5,
+    "parcel_value": "3390.23",
+    "rest_value": "0.03"
+  },
+  {
+    "total_value": "49149.98",
+    "number_of_parcels": 6,
+    "parcel_value": "8191.66",
+    "rest_value": "0.02"
+  },
+  {
+    "total_value": "880.65",
+    "number_of_parcels": 9,
+    "parcel_value": "97.85",
+    "rest_value": "0.00"
+  },
+  {
+    "total_value": "393.69",
+    "number_of_parcels": 10,
+    "parcel_value": "39.36",
+    "rest_value": "0.09"
+  },
+  {
+    "total_value": "43313.33",
+    "number_of_parcels": 10,
+    "parcel_value": "4331.33",
+    "rest_value": "0.03"
+  },
+  {
+    "total_value": "10426.91",
+    "number_of_parcels": 2,
+    "parcel_value": "5213.45",
+    "rest_value": "0.01"
+  },
+  {
+    "total_value": "496.82",
+    "number_of_parcels": 9,
+    "parcel_value": "55.20",
+    "rest_value": "0.02"
+  },
+  {
+    "total_value": "36522.27",
+    "number_of_parcels": 6,
+    "parcel_value": "6087.04",
+    "rest_value": "0.03"
+  },
+  {
+    "total_value": "7024.15",
+    "number_of_parcels": 3,
+    "parcel_value": "2341.38",
+    "rest_value": "0.01"
+  },
+  {
+    "total_value": "7820.23",
+    "number_of_parcels": 9,
+    "parcel_value": "868.91",
+    "rest_value": "0.04"
+  },
+  {
+    "total_value": "34778.42",
+    "number_of_parcels": 7,
+    "parcel_value": "4968.34",
+    "rest_value": "0.04"
+  },
+  {
+    "total_value": "22463.60",
+    "number_of_parcels": 6,
+    "parcel_value": "3743.93",
+    "rest_value": "0.02"
+  },
+  {
+    "total_value": "12415.66",
+    "number_of_parcels": 6,
+    "parcel_value": "2069.27",
+    "rest_value": "0.04"
+  },
+  {
+    "total_value": "5115.35",
+    "number_of_parcels": 9,
+    "parcel_value": "568.37",
+    "rest_value": "0.02"
+  },
+  {
+    "total_value": "14689.18",
+    "number_of_parcels": 4,
+    "parcel_value": "3672.29",
+    "rest_value": "0.02"
+  },
+  {
+    "total_value": "29673.57",
+    "number_of_parcels": 4,
+    "parcel_value": "7418.39",
+    "rest_value": "0.01"
+  },
+  {
+    "total_value": "24967.50",
+    "number_of_parcels": 2,
+    "parcel_value": "12483.75",
+    "rest_value": "0.00"
+  },
+  {
+    "total_value": "38481.12",
+    "number_of_parcels": 8,
+    "parcel_value": "4810.14",
+    "rest_value": "0.00"
+  },
+  {
+    "total_value": "18280.85",
+    "number_of_parcels": 8,
+    "parcel_value": "2285.10",
+    "rest_value": "0.05"
+  },
+  {
+    "total_value": "25904.18",
+    "number_of_parcels": 5,
+    "parcel_value": "5180.83",
+    "rest_value": "0.03"
+  },
+  {
+    "total_value": "30896.09",
+    "number_of_parcels": 2,
+    "parcel_value": "15448.04",
+    "rest_value": "0.01"
+  },
+  {
+    "total_value": "47734.32",
+    "number_of_parcels": 1,
+    "parcel_value": "47734.32",
+    "rest_value": "0.00"
+  },
+  {
+    "total_value": "26221.79",
+    "number_of_parcels": 1,
+    "parcel_value": "26221.79",
+    "rest_value": "0.00"
+  },
+  {
+    "total_value": "14037.64",
+    "number_of_parcels": 5,
+    "parcel_value": "2807.52",
+    "rest_value": "0.04"
+  },
+  {
+    "total_value": "42644.57",
+    "number_of_parcels": 10,
+    "parcel_value": "4264.45",
+    "rest_value": "0.07"
+  },
+  {
+    "total_value": "38254.64",
+    "number_of_parcels": 3,
+    "parcel_value": "12751.54",
+    "rest_value": "0.02"
+  },
+  {
+    "total_value": "14887.08",
+    "number_of_parcels": 4,
+    "parcel_value": "3721.77",
+    "rest_value": "0.00"
+  },
+  {
+    "total_value": "48130.83",
+    "number_of_parcels": 7,
+    "parcel_value": "6875.83",
+    "rest_value": "0.02"
+  },
+  {
+    "total_value": "29284.62",
+    "number_of_parcels": 7,
+    "parcel_value": "4183.51",
+    "rest_value": "0.05"
+  },
+  {
+    "total_value": "26910.49",
+    "number_of_parcels": 3,
+    "parcel_value": "8970.16",
+    "rest_value": "0.01"
+  },
+  {
+    "total_value": "14433.29",
+    "number_of_parcels": 3,
+    "parcel_value": "4811.09",
+    "rest_value": "0.02"
+  },
+  {
+    "total_value": "37732.72",
+    "number_of_parcels": 8,
+    "parcel_value": "4716.59",
+    "rest_value": "0.00"
+  },
+  {
+    "total_value": "23933.47",
+    "number_of_parcels": 1,
+    "parcel_value": "23933.47",
+    "rest_value": "0.00"
+  },
+  {
+    "total_value": "7736.06",
+    "number_of_parcels": 10,
+    "parcel_value": "773.60",
+    "rest_value": "0.06"
+  },
+  {
+    "total_value": "49378.56",
+    "number_of_parcels": 3,
+    "parcel_value": "16459.52",
+    "rest_value": "0.00"
+  },
+  {
+    "total_value": "17133.15",
+    "number_of_parcels": 10,
+    "parcel_value": "1713.31",
+    "rest_value": "0.05"
+  },
+  {
+    "total_value": "37794.94",
+    "number_of_parcels": 5,
+    "parcel_value": "7558.98",
+    "rest_value": "0.04"
+  },
+  {
+    "total_value": "44955.67",
+    "number_of_parcels": 1,
+    "parcel_value": "44955.67",
+    "rest_value": "0.00"
+  },
+  {
+    "total_value": "12596.58",
+    "number_of_parcels": 3,
+    "parcel_value": "4198.86",
+    "rest_value": "0.00"
+  },
+  {
+    "total_value": "35394.15",
+    "number_of_parcels": 8,
+    "parcel_value": "4424.26",
+    "rest_value": "0.07"
+  },
+  {
+    "total_value": "11663.20",
+    "number_of_parcels": 8,
+    "parcel_value": "1457.90",
+    "rest_value": "0.00"
+  },
+  {
+    "total_value": "42699.34",
+    "number_of_parcels": 7,
+    "parcel_value": "6099.90",
+    "rest_value": "0.04"
+  },
+  {
+    "total_value": "8823.21",
+    "number_of_parcels": 9,
+    "parcel_value": "980.35",
+    "rest_value": "0.06"
+  },
+  {
+    "total_value": "8339.71",
+    "number_of_parcels": 10,
+    "parcel_value": "833.97",
+    "rest_value": "0.01"
+  }
+]
